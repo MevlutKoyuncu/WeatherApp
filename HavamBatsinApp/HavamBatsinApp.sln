@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HavamBatsinApp", "HavamBatsinApp\HavamBatsinApp.csproj", "{EB5616E7-E83B-4E5E-9E5C-667ED84D57BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5616E7-E83B-4E5E-9E5C-667ED84D57BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5616E7-E83B-4E5E-9E5C-667ED84D57BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5616E7-E83B-4E5E-9E5C-667ED84D57BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5616E7-E83B-4E5E-9E5C-667ED84D57BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36959B22-EC46-4335-B0E5-30875DCC8F31}
+	EndGlobalSection
+EndGlobal

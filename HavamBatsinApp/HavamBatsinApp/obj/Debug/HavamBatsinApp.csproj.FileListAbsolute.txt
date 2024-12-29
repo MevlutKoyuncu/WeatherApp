@@ -1,0 +1,10 @@
+C:\Users\Mevlut\source\repos\HavamBatsinApp\HavamBatsinApp\bin\Debug\HavamBatsinApp.exe.config
+C:\Users\Mevlut\source\repos\HavamBatsinApp\HavamBatsinApp\bin\Debug\HavamBatsinApp.exe
+C:\Users\Mevlut\source\repos\HavamBatsinApp\HavamBatsinApp\bin\Debug\HavamBatsinApp.pdb
+C:\Users\Mevlut\source\repos\HavamBatsinApp\HavamBatsinApp\obj\Debug\HavamBatsinApp.csproj.AssemblyReference.cache
+C:\Users\Mevlut\source\repos\HavamBatsinApp\HavamBatsinApp\obj\Debug\HavamBatsinApp.Form1.resources
+C:\Users\Mevlut\source\repos\HavamBatsinApp\HavamBatsinApp\obj\Debug\HavamBatsinApp.Properties.Resources.resources
+C:\Users\Mevlut\source\repos\HavamBatsinApp\HavamBatsinApp\obj\Debug\HavamBatsinApp.csproj.GenerateResource.cache
+C:\Users\Mevlut\source\repos\HavamBatsinApp\HavamBatsinApp\obj\Debug\HavamBatsinApp.csproj.CoreCompileInputs.cache
+C:\Users\Mevlut\source\repos\HavamBatsinApp\HavamBatsinApp\obj\Debug\HavamBatsinApp.exe
+C:\Users\Mevlut\source\repos\HavamBatsinApp\HavamBatsinApp\obj\Debug\HavamBatsinApp.pdb
